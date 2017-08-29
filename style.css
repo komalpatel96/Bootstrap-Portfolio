@@ -1,0 +1,93 @@
+body{
+	background-color: #dddddd;
+}
+.navbar-brand {
+	background:#4aaaa5;
+	height: 55px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-left: 0;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+}
+
+.navbar-header{
+	right: 40px;
+}
+.navbar-default .navbar-brand{
+	text-decoration: none;
+	color: white;
+	left: 40px;
+}
+
+.navbar-default{
+	background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    padding-left: 130px;
+    height: 55px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.About-me{
+    line-height: 30px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #777777;
+    border: 15px solid #ffffff;
+    overflow: auto;
+}
+
+#ContactMe{
+	float: right;
+    width: 100%;
+    border: 25px solid #ffffff;
+    text-align: center;
+    background: #ffffff;
+}
+
+#ProfilePic{
+	float: left;
+    margin-right: 15px;
+}
+.col-md-8{
+    width: 60%;
+    background: #ffffff;
+    right: -60px;
+}
+
+.ContactImages{
+	width: 65px;
+	height: 65px;
+}
+
+.col-md-4{
+    width: 30%;
+    right: -90px;
+}
+
+.footer {
+	position: absolute;
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    background-color: #666;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+#portfoliopics{
+ 	align-content: center;
+ 	border: 10px solid white;
+
+ }
+
